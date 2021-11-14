@@ -7,6 +7,7 @@ int main() {
     if(n<2){
         cout << "errore" <<endl;
     }else{
+       cout << b <<endl;
         for(int i=0; i<=n; i++){
             c=a+b;
             cout << c <<endl;
